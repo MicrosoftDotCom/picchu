@@ -1,15 +1,15 @@
 # Picchu
 Coming soon - a UI framework from Microsoft.com
 
-## Install
+# Install
 
-### With [Bower](http://bower.io/)
+# With [Bower](http://bower.io/)
 
 ```bash
 bower install picchu
 ```
 
-### With [Grunt](http://gruntjs.com/)
+# With [Grunt](http://gruntjs.com/)
 
 First you must have installed [Node.js](http://nodejs.org/). Then install Grunt CLI as an admin user:
 
@@ -30,7 +30,7 @@ Or just recompile the Sass files:
 grunt
 ```
 
-### Built-in server
+# Built-in server
 
 You can launch a static server which watches for changed Sass files and automatically recompiles the changed files:
 
